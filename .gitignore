@@ -1,0 +1,8 @@
+.allure/**/**
+.idea/**/**
+.gradle/**/**
+Out
+Reports
+allure-results/**/**
+ScreensDoc/**/**
+logs/logfile.log
